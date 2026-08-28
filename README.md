@@ -1,5 +1,24 @@
 # 💫 About Me:
-I am an aspiring AI/ML engineer with a<br>strong foundation in Python and data <br>structures & algorithms. I have experience <br>in Flutter development, having built and <br>published multiple mobile applications <br>on GitHub. I started coding at the age of 9, <br>beginning with HTML, and have continuously <br>expanded my skills through online courses and <br>hands-on projects. I regularly practice <br>problem-solving on platforms like LeetCode and enjoy <br>building efficient, real-world solutions.<br>
+I’m an **AI Engineer and Software Developer** focused on building intelligent, scalable, and production-ready applications using **Python, FastAPI, RAG, AI Agents, and Flutter**.
+
+My work combines **AI/ML with backend engineering** to develop practical solutions such as AI-powered chatbots, automation systems, RAG-based applications, APIs, and intelligent agents.
+
+### Core Expertise
+
+• Python & Backend Development
+• FastAPI & REST APIs
+• RAG (Retrieval-Augmented Generation)
+• AI Agents & LLM Applications
+• AI Chatbots & Automation
+• SQL & Database Management
+• Flutter & Mobile App Development
+• CRUD & API Architecture
+• AWS & Cloud Deployment
+• Data Structures & Algorithms
+
+I enjoy turning real-world problems into **useful AI-powered products**, with a strong focus on clean architecture, scalability, performance, and user experience.
+
+🚀 **Currently focused on:** AI Engineering, Agentic AI, RAG systems, backend development, and building production-ready applications.
 
 
 ## 🌐 Socials:
